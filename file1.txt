@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 First line from master
 thirdt line from master
+Second line from feature
